@@ -10,12 +10,12 @@ body{
 #facebook_btn{
     border-radius: 8px;
     width: 190px;
-    height: 55px;
+    height: 56px;
     background-color: #4267b2;
     text-align: center;
-    margin-right: 16px;
+    margin-right: 14px;
     border-style: none;
-    box-shadow:1px 1px 5px 0.1px #B3B3A9;
+    box-shadow:1px 2px 5px 0.1px #B3B3A9;
 }
 
 #facebook_btn a{
@@ -31,6 +31,7 @@ body{
 #face_text{
     /* padding: 20px; */
     justify-content: center;
+    
 }
 
 #google_btn{
@@ -43,7 +44,7 @@ body{
     text-align: center;
     justify-content: center;
     border-style: none;
-    box-shadow:1px 1px 5px 0.1px #B3B3A9;  
+    box-shadow:1px 1px 4px 0.3px #B3B3A9;  
 }
 
 #google_logo{
