@@ -1,0 +1,125 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    margin-top: 150px;
+}
+
+#facebook_btn{
+    border-radius: 8px;
+    width: 190px;
+    height: 55px;
+    background-color: #4267b2;
+    text-align: center;
+    margin-right: 16px;
+    border-style: none;
+    box-shadow:1px 1px 5px 0.1px #B3B3A9;
+}
+
+#facebook_btn a{
+    color: #F7F7F7;
+    text-decoration: none;
+    font-size: 1.2rem;
+    font-weight: bolder;
+}
+#f{
+    "font-size: 25px;
+}
+
+#face_text{
+    /* padding: 20px; */
+    justify-content: center;
+}
+
+#google_btn{
+    display: inline-block;
+    border: 1px solid;
+    width: 190px;
+    height: 55px;
+    background-color: #F7F7F7;
+    border-radius: 8px;
+    text-align: center;
+    justify-content: center;
+    border-style: none;
+    box-shadow:1px 1px 5px 0.1px #B3B3A9;  
+}
+
+#google_logo{
+    display: inline-flex;
+    margin-right: 10px;
+    justify-content: center;
+}
+
+#google_text{
+    color: #555555;
+    font-size: 18px;
+    text-decoration: none;
+    justify-content: center;
+}
+h1{
+    text-align: center;
+    padding: 10px;
+    margin: 30px;
+    font-size: 30px;
+    letter-spacing: 3px;
+    color
+}
+ #container{
+     width: 600px;
+     height: 600px;
+     border: 8px solid red;
+     margin: auto;
+     border-image: linear-gradient(to right, #21BFE2, #9C55F3 , #DB1DFA ) 30;
+ }
+ #section{
+     border: 3px solid yellow;
+     width: 400px;
+     margin: auto;
+     box-sizing: content-box;
+     position: relative;
+ }
+
+
+body{
+    font-family: 'Roboto', sans-serif;
+    color: #555555;
+  
+}
+#form1{
+    margin-top: 50px;
+}
+.forms{
+    width: 400px;
+    box-sizing: border-box;
+    padding: 18px 0px;
+    margin-bottom: 20px;
+    background-color: #F7F7F7;
+    border-radius: 8px;
+    border-style: none;
+    
+}
+#username, #password{
+    margin-top: 8px;
+    box-shadow: inset 0px 0px 0px 0.1px #B3B3A9;  
+
+}
+#submit1{
+    background-color: #333333;
+    color: white;
+    border-style: none;
+    margin-bottom: 0px;
+}
+p{
+    text-align: center;
+    color: #B3B3A9;
+    margin-top: 30px;
+}
+#forgot{
+    color: #B3B3A9;
+    font-size: small;
+}
+#sun{
+    color: #B3B3A9;
+}
