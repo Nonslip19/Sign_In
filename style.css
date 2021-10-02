@@ -74,7 +74,7 @@ h1{
      border-image: linear-gradient(to right, #21BFE2, #9C55F3 , #DB1DFA ) 30;
  }
  #section{
-     border: 3px solid yellow;
+    /*  border: 3px solid yellow; */
      width: 400px;
      margin: auto;
      box-sizing: content-box;
